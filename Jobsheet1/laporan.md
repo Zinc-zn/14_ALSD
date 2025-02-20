@@ -55,7 +55,11 @@ Solusi diimplementasikan dalam Array.java, dan di bawah ini adalah tangkapan lay
 
 Solusi diimplementasikan dalam Fungsi.java, dan di bawah ini adalah tangkapan layar hasilnya.
 
-![Solusi Fungsi](./img/Fungsi.png) 
+![Solusi Fungsi](./img/fungsi.detailtotaltock.png)
+
+![Solusi Fungsi](./img/fungsi.detailtotalpenjualan.png)
+
+![Solusi Fungsi](./img/fungsi.detailpengurangan.png) 
 
 **Penjelasan Singkat:** Ada 4 langkah utama dalam program saya:
 1. Menginisialisasi data stok bunga
@@ -102,10 +106,15 @@ Solusi diimplementasikan dalam Tugas2.java, dan di bawah ini adalah tangkapan la
 Solusi diimplementasikan dalam Tugas3.java, dan di bawah ini adalah tangkapan layar hasilnya.
 
 ![Solusi Tugas Ketiga](./img/tugas3.inputjmlmk.png)
+
 ![Solusi Tugas Ketiga](./img/tugas3.inputmk.png)
+
 ![Solusi Tugas Ketiga](./img/tugas3.detailjadwal.png)
+
 ![Solusi Tugas Ketiga](./img/tugas3.detailjdwlbyday.png)
+
 ![Solusi Tugas Ketiga](./img/tugas3.detailjdwlbymk.png)
+
 ![Solusi Tugas Ketiga](./img/tugas3.detailjdwlbysmt.png)
 
 
