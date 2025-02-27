@@ -46,7 +46,8 @@ void updateIpk(double ipkBaru) {
     Jika IPK < 2.0, maka kinerja dianggap "Kinerja kurang"
 	-   Method nilaiKinerja() mengembalikan (return) nilai berupa String yang berisi kategori kinerja mahasiswa sesuai dengan kriteria di atas.
 	6. Commit & Push
-	![Push & Commit](./img/PushP1.png)
+
+		![Push & Commit](./img/PushP1.png)
 
 ### 2.2.2. Verifikasi Hasil Percobaan 2
 Percobaan 2 diimplementasikan dalam MahasiswaMain14.java, dan di bawah ini adalah hasil dari percobaan 2
@@ -96,7 +97,8 @@ Percobaan 3 diimplementasikan dalam MahasiswaMain14.java, dan di bawah ini adala
 `mhs14.tampilkanInformasi();`
 
 6. Commit & Push
-![Push & Commit](./img/PushP1.png)
+
+	![Push & Commit](./img/PushP1.png)
 
 ### 2.4 Solusi Tugas Pertama
 Solusi diimplementasikan dalam MataKuliah14.java, dan MataKuliahMain14.java. di bawah ini adalah tangkapan layar hasilnya.
