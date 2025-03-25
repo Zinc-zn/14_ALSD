@@ -3,7 +3,7 @@
 | NIM |  244107020240|
 | Nama |  Mochammad Rijal Dzaki Rifki Afifudin |
 | Kelas | TI - 1H |
-| Repository | [link](https://github.com/) |
+| Repository | [Zinc-zn](https://github.com/Zinc-zn/14_ALSD) |
 
 
 # Labs #1 Review Dasar Pemrograman
