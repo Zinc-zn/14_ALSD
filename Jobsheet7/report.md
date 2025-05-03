@@ -12,7 +12,7 @@
 ### 6.2 Searching menggunakan sequential searching
 
 #### 6.2.1 Langkah Percobaan
-Setelah melakukan langkah percobaan sesuai dengan petunjuk yang diberikan, dihasilkan 3 file, yaitu [Mahasiswa26.java](./Mahasiswa26.java), [MahasiswaDemo26.java](./MahasiswaDemo26.java), dan [MahasiswaBerprestasi26.java](./MahasiswaBerprestasi26.java)
+Setelah melakukan langkah percobaan sesuai dengan petunjuk yang diberikan, dihasilkan 3 file, yaitu [Mahasiswa14.java](./Mahasiswa14.java), [MahasiswaDemo14.java](./MahasiswaDemo14.java), dan [MahasiswaBerprestasi14.java](./MahasiswaBerprestasi14.java)
 
 #### 6.2.2 Verifikasi Percobaan
 
@@ -72,7 +72,7 @@ dimana kode tersebut mengecek nilai tengah dari array yang diberikan dan menentu
     }
 ```
 
-5. untuk mengubah seperti yang diinginkan, saya memilih untuk menggunakan konstruktor berparameter untuk menghindari memory leak. kode yang tertera dalam file [MahasiswaBerprestasi26.java](./MahasiswaBerprestasi26.java) dan [MahasiswaDemo26](./MahasiswaDemo26.java) merupakan kode yang diubah untuk dapat memasukkan jumlah mahasiswa sesuai input dari keyboard user
+5. untuk mengubah seperti yang diinginkan, saya memilih untuk menggunakan konstruktor berparameter untuk menghindari memory leak. kode yang tertera dalam file [MahasiswaBerprestasi14.java](./MahasiswaBerprestasi14.java) dan [MahasiswaDemo14](./MahasiswaDemo14.java) merupakan kode yang diubah untuk dapat memasukkan jumlah mahasiswa sesuai input dari keyboard user
 
 ### 6.5 Latihan Praktikum
 berikut adalah screenshot dari program dari minggu ke-6 yang telah dimodifikasi. 
