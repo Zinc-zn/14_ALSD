@@ -84,7 +84,6 @@ public class Queue14 {
     if (IsEmpty()) {
         System.out.println("Queue underflow! Program dihentikan.");
         System.exit(1);
-        return -1;
     } else {
         dt = data[front];
         size--;

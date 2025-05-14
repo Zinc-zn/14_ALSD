@@ -32,12 +32,24 @@ Sedangkan size diinisialisasi dengan nilai 0 karena memang belum ada elemen dala
 4. Dengan memulai perulangan dari i=front, metode print akan mencetak elemen-elemen queue sesuai dengan urutan masuknya, dimulai dari elemen yang paling dulu masuk (yang berada di posisi front) hingga elemen yang terakhir masuk (yang berada di posisi rear).
 5. Kode ini memastikan bahwa indeks i akan kembali ke 0 setelah mencapai max-1.
 Penggunaan operator modulus (%) memungkinkan indeks i untuk kembali ke 0 ketika melewati batas maksimum array, sehingga perulangan dapat berjalan secara melingkar.
-6. ` public void Enqueue (int dt) {
-    if (IsFull()) {
-        System.out.println("Queue sudah penuh");
+6. `     int dt = 0;
+    if (IsEmpty()) {
+        System.out.println("Queue underflow! Program dihentikan.");
+        System.exit(1);
     } else {
-        // kode untuk menambah elemen
+        dt = data[front];
+        size--;
+        if(IsEmpty()) {
+            front = rear = -1;
+        } else {
+            if (front == max -1) {
+                front = 0;
+            } else {
+                front++;
+            }
+        }
     }
+    return dt;
 }
 `
 7. Modifikasi Method Enqueue pada class [Queue14.java](./Queue14.java) :
