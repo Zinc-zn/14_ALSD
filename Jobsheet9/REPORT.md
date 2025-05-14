@@ -45,7 +45,7 @@ Penggunaan operator modulus (%) memungkinkan indeks i untuk kembali ke 0 ketika 
 public void Enqueue (int dt) {
     if (IsFull()) {
         System.out.println("Queue overflow! Program dihentikan.");
-        System.exit(1); // Menghentikan program dengan kode error 1
+        System.exit(1);
     } else {
         if (IsEmpty()) {
             front = rear = 0;
